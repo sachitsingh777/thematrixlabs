@@ -1,0 +1,52 @@
+.logo {
+color: rgba(255, 255, 255, 0.70);
+font-family: Pacifico;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.address  {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  line-height: 20px;
+  color: var(--cultured-grey, #F7F9F9);
+}
+
+.poppins16 {
+  background:' linear-gradient(95deg, #7C0F35 7.59%, #581266 104.01%)';
+  color:#FFF;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-family: 'Poppins', sans-serif;
+}
+.poppins16:hover{
+  background:' linear-gradient(95deg, #7C0F35 7.59%, #581266 104.01%)';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-family: 'Poppins', sans-serif;
+
+}
+.poppins18 {
+  color: #FFF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.poppins12 {
+  color: #F5F5F5;
+  font-family: 'Poppins',sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
